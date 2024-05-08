@@ -1,5 +1,5 @@
 'use strict';
-
+// reset js 
 console.log('ciao mondo');
 
 // creo un array di numeri
@@ -22,3 +22,4 @@ function contaElementi(arr) {
     // restituisco il valore del contatore, che rappresenta il numero di elementi nell'array
     return conta;
 }
+
