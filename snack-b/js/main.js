@@ -21,4 +21,4 @@ function trovaIndice(arr, elem) {
 }
 
 // stampo in console 
-console.log(trovaIndice(myArray, elemento));
+console.log(`L'elemento si trova in posizione ${trovaIndice(myArray, elemento)}`);
